@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <link rel="stylesheet"/>
+</head>
+<body>
+<div class="content">
+    <h1>业务员管理</h1>
+</div>
+</body>
+</html>
